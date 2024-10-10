@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TEXTO.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TEXTO instancia 10000" x="2" y="2" width="819" height="387" frameX="-1" frameY="0" frameWidth="820" frameHeight="387"/>
+	<SubTexture name="TEXTO instancia 10001" x="2" y="2" width="819" height="387" frameX="-1" frameY="0" frameWidth="820" frameHeight="387"/>
+	<SubTexture name="TEXTO instancia 10002" x="2" y="392" width="820" height="387"/>
+	<SubTexture name="TEXTO instancia 10003" x="2" y="392" width="820" height="387"/>
+	<SubTexture name="TEXTO instancia 10004" x="2" y="782" width="819" height="387" frameX="-1" frameY="0" frameWidth="820" frameHeight="387"/>
+	<SubTexture name="TEXTO instancia 10005" x="2" y="782" width="819" height="387" frameX="-1" frameY="0" frameWidth="820" frameHeight="387"/>
+</TextureAtlas>

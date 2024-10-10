@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="POSE2N.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="POSE 2 instancia 10000" x="2" y="2" width="483" height="481" frameX="0" frameY="0" frameWidth="484" frameHeight="482"/>
+	<SubTexture name="POSE 2 instancia 10001" x="2" y="2" width="483" height="481" frameX="0" frameY="0" frameWidth="484" frameHeight="482"/>
+	<SubTexture name="POSE 2 instancia 10002" x="488" y="2" width="482" height="476" frameX="-2" frameY="-6" frameWidth="484" frameHeight="482"/>
+	<SubTexture name="POSE 2 instancia 10003" x="488" y="2" width="482" height="476" frameX="-2" frameY="-6" frameWidth="484" frameHeight="482"/>
+	<SubTexture name="POSE 2 instancia 10004" x="2" y="486" width="484" height="480" frameX="0" frameY="0" frameWidth="484" frameHeight="482"/>
+	<SubTexture name="POSE 2 instancia 10005" x="2" y="486" width="484" height="480" frameX="0" frameY="0" frameWidth="484" frameHeight="482"/>
+</TextureAtlas>
